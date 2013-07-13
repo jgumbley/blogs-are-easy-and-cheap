@@ -10,9 +10,11 @@ Clone this repo
 
 You want to have a versioned copy of the drivel you're going to write, plus the scripts which generate the HTML (we are not going to write plain HTML) and upload the whole lot to the cloud (or whatever). We can get all this for free as we are living in the future. All you need to do is fork this repository to your own account, using GitHub.com, then clone that locally so you can add blog posts and upload them. This is your "working copy" and local sandbox, which stays in sync with Github.com, the version control system. Later we'll upload to the cloud, i.e. publish a version of the blog.
 
-:
-    git clone 
+.. code-block:: shell 
 
+   git clone https://github.com/jgumbley/blogs-are-easy-and-cheap
+   ./install_prereqs.sh
+   
 Choose a static site generation framework.
 ==========================================
 
