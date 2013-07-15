@@ -3,10 +3,6 @@
 import tinkerer
 import tinkerer.paths
 
-# **************************************************************
-# TODO: Edit the lines below
-# **************************************************************
-
 # Change this to the name of your blog
 project = 'Jims Blog'
 
@@ -23,7 +19,7 @@ author = 'Jim Gumbley'
 copyright = '2013, ' + author
 
 # Change this to your blog root URL (required for RSS feed)
-website = 'http://127.0.0.1/blog/html/'
+website = 'http://blog.jgumbley.com/'
 
 # **************************************************************
 # More tweaks you can do
@@ -72,7 +68,7 @@ exclude_patterns = ["drafts/*", "_templates/*"]
 
 # Add templates to be rendered in sidebar here
 html_sidebars = {
-    "**": ["recent.html", "searchbox.html"]
+    "**": ["searchbox.html", "recent.html"]
 }
 
 # **************************************************************
