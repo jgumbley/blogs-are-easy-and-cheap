@@ -14,7 +14,8 @@ You want to have a versioned copy of the drivel you're going to write, plus the 
 
    git clone https://github.com/jgumbley/blogs-are-easy-and-cheap
    ./install_prereqs.sh
-   
+   tinker --setup
+
 Choose a static site generation framework.
 ==========================================
 
