@@ -1,6 +1,8 @@
 Blogs are easy and cheap!
 =========================
 
+People tell me I need a blog, and its easy to be skeptical. However, in the IT industry, communicating with other humans is at least as important as anything else, and a blog is just another way of doing that. Quite recently, someone posted on an internal company mailing list where I work, asking what an easy and cheap way of setting up a blog would be. In a smart alec kind of way, I responsed that "site generation + AWS + a free CDN was the way forward". Someone came back and argued this was potentially wrong for non-technical folk, however I am technical, so there follows the story of a few hours wasted over a weekend, which in a meta kind of way has also become a first blog post to test out the stack.
+
 When people come to read your blog, they are looking at plain HTML plus some styles. When you write your awesome blog post you are defining that set of HTML and style sheets. Instead of using some overweight web application framework integrated with an ACID compliant datastore, it does seem more efficient to simply write some plain text files and then use a script to generate the HTML files only once. As the script only gets run each time content is added to the site, we save generating the HTML per read request, as would happen with Wordpress or whatever.
 
 Tools of the trade
