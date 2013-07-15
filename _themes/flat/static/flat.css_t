@@ -95,9 +95,6 @@ footer { margin-bottom: 20px; padding: 20px; text-align: center; }
 @media only screen and (min-width: 900px) {
     header { left: 0; top: 0; position: fixed; width: 26%; }
 
-    nav { left: 0; top: 40%; position: fixed; width: 26%; }
-    nav li { display: block; text-align: center; width: 100%; }
-
     div.main-container { margin-left: 26%; }
     div.footer-container { margin-left: 26%; }
 }

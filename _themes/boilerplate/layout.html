@@ -250,31 +250,13 @@
 
       {%- block header -%}
           <header>
-            <hgroup>
-              <img src="http://4.bp.blogspot.com/-XhnQWNxGm10/TVrcg2CaOmI/AAAAAAAAAAU/nmPwWdeA4VM/s320/power+loom.png" alt="Image of a Powerloom"/>
-              <h1><a href="{{ pathto(pages[0][0]) }}">{{ shorttitle|e }}</a></h1>
-              {%- if tagline -%}<h2>{{ tagline|e }}</h2>{%- endif -%}
-            </hgroup>
+              <a href="{{ pathto(pages[0][0]) }}">
+                  <img src="http://4.bp.blogspot.com/-XhnQWNxGm10/TVrcg2CaOmI/AAAAAAAAAAU/nmPwWdeA4VM/s320/power+loom.png" alt="Image of a Powerloom"/>
+              </a>
+            &nbsp;
+            <hr/>
           </header>
       {% endblock -%}
-
-      {%- block navigation -%}
-          <nav>
-            <ul>
-              {%- block quicklinks -%}
-                {%- if rss_in_page_nav -%}
-                <li class="quicklink">{{ rss_link() }}</li>
-                {%- endif -%}
-              {%- endblock -%}
-              {% for page in pages -%}
-                <li class="main-nav">
-                  <a href="{{ pathto(page[0]) }}">{{ page[1]|e }}</a>
-                </li>
-              {% endfor -%}
-            </ul>
-          </nav>
-      {%- endblock -%}
-
           <div class="main-container">
       {%- block content -%}
             <div class="main wrapper clearfix">
@@ -287,6 +269,24 @@
             {%- endblock -%}
             {%- if render_sidebar -%}
               <aside class="sidebar">
+
+                  {%- block navigation -%}
+                      <nav>
+                        <ul>
+                          {%- block quicklinks -%}
+                            {%- if rss_in_page_nav -%}
+                            <li class="quicklink">{{ rss_link() }}</li>
+                            {%- endif -%}
+                          {%- endblock -%}
+                          {% for page in pages -%}
+                            <li class="main-nav">
+                              <a href="{{ pathto(page[0]) }}">{{ page[1]|e }}</a>
+                            </li>
+                          {% endfor -%}
+                        </ul>
+                      </nav>
+                  {%- endblock -%}
+
                 {%- if sidebars != None -%}
                   {%- for sidebartemplate in sidebars -%}
                   <section>
