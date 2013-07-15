@@ -17,10 +17,10 @@ tagline = 'Add intelligent tagline here'
 description = 'This is an awesome blog'
 
 # Change this to your name
-author = 'Winston Smith'
+author = 'Jim Gumbley'
 
 # Change this to your copyright string
-copyright = '1984, ' + author
+copyright = '2013, ' + author
 
 # Change this to your blog root URL (required for RSS feed)
 website = 'http://127.0.0.1/blog/html/'

@@ -108,9 +108,10 @@ footer { margin-bottom: 20px; padding: 20px; text-align: center; }
 
 /* Palette */
 {%- set background_color = "#ffffff" -%}
-{%- set box_color = "#e6edf2" -%}
-{%- set text_color = "#0c0501" -%}
-{%- set theme_color_light = "#93a4ad" -%}
+{%- set box_color = "#3D9AD1" -%}
+{%- set text_color = "#333333" -%}
+{%- set theme_color_light = "#888888" -%}
+{%- set theme_accent_color = "#03436A" -%}
 
 body { background-color: {{ background_color }}; }
 

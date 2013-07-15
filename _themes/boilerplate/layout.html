@@ -108,7 +108,7 @@
 {%- macro author(author_name) -%}
     {%- if author_name -%}
         <div class="author">
-            <span>safe {{ text_posted_by }} {{ author_name }}</span>
+            <span>{{ text_posted_by }} {{ author_name }}</span>
         </div>
     {%- endif -%}
 {%- endmacro -%}
@@ -253,8 +253,6 @@
               <a href="{{ pathto(pages[0][0]) }}">
                   <img src="http://4.bp.blogspot.com/-XhnQWNxGm10/TVrcg2CaOmI/AAAAAAAAAAU/nmPwWdeA4VM/s320/power+loom.png" alt="Image of a Powerloom"/>
               </a>
-            &nbsp;
-            <hr/>
           </header>
       {% endblock -%}
           <div class="main-container">
@@ -305,9 +303,6 @@
           <footer class="wrapper">
           {%- if show_copyright -%}
             {% trans copyright=copyright|e -%}&copy; Copyright {{ copyright }}. {% endtrans -%}
-          {%- endif -%}
-          {%- if show_sphinx -%}
-            Powered by <a href="http://www.tinkerer.me/">Tinkerer</a> and <a href="http://sphinx.pocoo.org/">Sphinx</a>.
           {%- endif -%}
           </footer>
       {%- endblock -%}
