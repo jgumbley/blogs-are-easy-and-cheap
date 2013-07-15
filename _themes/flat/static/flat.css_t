@@ -13,7 +13,9 @@ header h2 { font-size: 1.4em; font-weight: normal; margin: 0; padding: 0; }
 
 nav { font-size: 1.5em; }
 
-article p { line-height: 1.5; }
+article p { line-height: 1.5; 
+            font-family: Helvetica, Arial, sans-serif;
+}
 
 .highlight { font-size: .8em; }
 

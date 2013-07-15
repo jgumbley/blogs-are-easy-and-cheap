@@ -40,6 +40,7 @@ Pretty pleased with the effort. I've been concerned about being post-technical f
 
 .. [#] http://tinkerer.me/
 .. [#] http://www.git-scm.com/
+.. [#] https://github.com/boto/boto 
 .. [#] http://blog.cloudflare.com/
 
 .. author:: default
