@@ -20,7 +20,7 @@ Adding a Makefile
 
 The whole thing basically consists of a set of ReStructured text files which represent the posts, the aforementioned themes folder, plus a rubbish script for uploading to S3. While all this is simple enough I added a Makefile to capture and remind myself of the commands needed to manipulate the thing. I added three phony targets - one to create a new post [simply invokes Tinkerer with the required params] another to build the HTML and show it in a Browser [again Mac specific, I used "open"] and other one to invoke the upload script.
 
-.. code-block:: shell 
+.. code-block:: bash 
 
    make post
    make show
