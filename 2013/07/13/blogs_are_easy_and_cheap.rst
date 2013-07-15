@@ -10,7 +10,7 @@ Tools of the trade
 
 The first thing needed is a versioned copy of the drivel I'm going to write, plus the scripts which will generate the HTML and upload the whole lot to the cloud (or whatever). We can get all this for free as we are living in the future, thanks to open-source software and free-tier commerical cloud services.
 
-For generating the HTML I chose a library for Python, called Tinkerer. This is based on the pretty mature Sphinx documentation system which is widely used to generate documentation for Python projects. As far as versioning is concerned, Git is fine, and the Github.com service adds an off laptop backup and all sorts of other bells and whistles. To host the static files, a free Amazon S3 bucket does is fine- I used a precanned Python script and the Boto AWS integration library to automate uploading the files. To tie the whole thing together I decided to go old-school and write a Make script. Finally, so I don't get confused next time I get a new laptop, I wrote a shell script to ensure all the software dependancies are installed- I copped out a little and made it pretty much Mac only, but at least if I do end up wanting to use a Windows or Linux laptop, I can eyeball it to recall how I got here.
+For generating the HTML I chose a library for Python, called Tinkerer. This is based on the pretty mature Sphinx documentation system which is widely used to generate documentation for Python projects. As far as versioning is concerned, Git is fine, and the Github.com service adds an off laptop backup and all sorts of other bells and whistles. To host the static files, a free Amazon S3 bucket does the trick- I used a precanned Python script and the Boto AWS integration library to automate uploading the files. To tie the whole thing together I decided to go old-school and write a Make script. Finally, so I don't get confused next time I get a new laptop, I wrote a shell script to ensure all the software dependancies are installed- I copped out a little and made it pretty much Mac only, but at least if I do end up wanting to use a Windows or Linux laptop, I can eyeball it to recall how I got here.
 
 Messing around with the Stylesheet
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -20,7 +20,7 @@ After installing all the required tools, initialising the blog with Tinkerer and
 Adding a Makefile
 ~~~~~~~~~~~~~~~~~
 
-The whole thing basically consists of a set of ReStructured text files which represent the posts, the aforementioned themes folder, plus a rubbish script for uploading to S3. While all this is simple enough I added a Makefile to capture and remind myself of the commands needed to manipulate the thing. I added three phony targets - one to create a new post [simply invokes Tinkerer with the required params] another to build the HTML and show it in a Browser [again Mac specific, I used "open"] and other one to invoke the upload script.
+So now the whole thing basically consists of a set of ReStructured text files which represent the posts, the aforementioned themes folder, plus a rubbish script for uploading to S3. While all this is simple enough I added a Makefile to capture and remind myself of the commands needed to manipulate the thing. I added three phony targets - one to create a new post [simply invokes Tinkerer with the required params] another to build the HTML and show it in a Browser [again Mac specific, I used "open"] and other one to invoke the upload script.
 
 .. code-block:: bash 
 
@@ -31,9 +31,12 @@ The whole thing basically consists of a set of ReStructured text files which rep
 Adding a CDN
 ~~~~~~~~~~~~
 
-I've always enjoyed reading the Cloudflare blog, which from time to time contains outstanding articles about technical subjects. 
+I've always enjoyed reading the Cloudflare blog, which from time to time contains outstanding articles about technical subjects. Their free tier offering is pretty good, and I already had www.jgumbley.com on there. As I had named my S3 bucket for the intended domain, blog.jgumbley.com, all I needed to was add a CNAME DNS record and I had a nice friendly URL instead of the S3 URL, plus the added benefit of caching just in case any large group of people are foolish enough to look at my blog.
+
 Done
 ~~~~
+
+Pretty pleased with the effort. I've been concerned about being post-technical for the past few months, and very busy out of work hours. It was pretty satisfying to spend a few hours wiring things together and get a result that I'm pleased with - and satisfies my inital comment on the internal mailing list. I'm not convinved the approach is workable for non-technical people who have no interest in learning technical skills, but if someone had the inclination to learn a bit of Git, Python, Make, and a little about DNS and AWS I'm sure they could fork my repo and work everything out - or else wire things up in their own way.
 
 .. author:: default
 .. categories:: none
