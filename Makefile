@@ -9,3 +9,8 @@ show: default
 	open index.html
 	@echo [All done]
 
+.PHONY: upload¬
+upload: default
+	python upload.py
+	@echo [All done]
+
