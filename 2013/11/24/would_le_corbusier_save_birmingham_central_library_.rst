@@ -102,7 +102,13 @@ Conclusion
     We throw the out-of-date tool on the scrap-heap: the carbine, the culverin, the growler and the old locomotive. This action is a manifestation of health, of moral health, of morale also; it is not right that we should produce bad things because of a bad tool; nor is it right that we should waste our energy, our health and our courage because of a bad tool; it must be thrown away and replaced.
 -- Le Corbusier, Towards an Architecture, 1923
 
-The thing is a mess. It has been abandoned.
+The thing is a mess. It has been abandoned already. It blocks the natural flow of the city. It should be pulled down.
+
+Perhaps if it were placed somewhere else. But this is the real world.
+
+Le Corbusier was wrong in his analysis of the motorcar. The city is a not a place for the motorcar. People need more than un-adorned concrete. Perhaps if they had the waterfalls, or the marble.
+
+Marzoni was wrong too, the forward thing. People should not be sentimental about old buildings.
 
 --------
 
