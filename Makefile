@@ -14,5 +14,8 @@ upload: default
 	python upload.py
 	@echo [All done]
 
-
+.PHONY: webserver
+webserver: default
+	open http://localhost:8888/
+	cd blog/html; python -m SimpleHTTPServer 8888
 
