@@ -1,11 +1,14 @@
+#!/usr/bin/env python
+
 import mimetypes, os
 from boto.s3.connection import S3Connection
 from boto.s3.key import Key
 
 config = {}
 config['S3_API_KEY'] = 'AKIAJX3DKI72JEK4AL6Q'
+if not os.environ.get('S3_API_SECRET'):
+    raise Exception("No API secret in environment")
 config['S3_API_SECRET'] = os.environ.get('S3_API_SECRET')
-print os.environ.get('S3_API_SECRET')
 config['S3_BUCKET'] = 'blog.jgumbley.com'
 
 def config_value(key):
@@ -27,18 +30,15 @@ def store_in_s3(filename, content):
     k.key = filename
     mime = mimetypes.guess_type(filename)[0]
     k.set_metadata('Content-Type', mime)
-    print filename
     k.set_contents_from_filename(content)
     k.set_acl('public-read')
 
 def upload_file(filename, u_filename):
-    #with open(filename) as f:
     store_in_s3(u_filename, filename)
 
 if __name__ == '__main__':
     path = "./blog/html"
     for dirpath, dirnames, filenames in os.walk(path):
-        print dirpath
         for file in filenames:
             filename = os.path.join(dirpath, file)
             u_filename = filename[len(path) + 1:].replace('\\', '/')
