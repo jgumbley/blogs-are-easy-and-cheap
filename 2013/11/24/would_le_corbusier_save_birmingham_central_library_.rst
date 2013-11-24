@@ -22,8 +22,6 @@ Had a view into the future, understood computerisation, the wider remit of a lib
 Le Corbusier was a architectural prophet. 
 Town planning was an emerging humanist art.
 The architect was to be the savior of the city.
-The champion of the simple and unadorned, ever mindful of mass, surface and restraining lines.
-Against a garden.
 
 The vision Le Corbusier foretold was domination of the automobile.
 Understood the fumes and filth of the things would suffocate the city.
@@ -35,13 +33,55 @@ The pedestrian segmented from the subterranean zone of cars, utilities, sewage p
 
     The original plan echoed Le Corbusier's vision of a city raised above the ground, with a bus station planned in a subterranean zone alongside the current road tunnels. [#]_
 
+The champion of the simple and unadorned, ever mindful of mass, surface and restraining lines.
+Against a garden with waterfalls and stuff.
+
+.. figure:: waterfalls.jpg
+
+    They also wanted to cover the thing in marble, but the council could not afford it.
+
 A fly in the ointment of the natural order of the city
 ------------------------------------------------------
     Without plan there can be neither grandeur of aim and expression, nor rhythm, nor mass, nor coherence. 
 -- Le Corbusier, Towards an Architecture, 1923
 
-Yep yep.
+.. figure:: civic-centre.jpg
+
+    The library was suppose to be the start of something.
+
 Inner ringroad.
+Grand plan to leverage the destruction of the city in the war.
+And the coming of the automobile.
+And the position of chief supervisor of works for the City which Marzoni had.
+
+Along with a grand plan to remodel the city with a civic centre.
+The West Midlands was booming into the 70s.
+The end of the party, the oil crisis etc.
+Could not afford to complete the Civic centre as planned.
+
+Madin was Marzoni's protoge.
+An elderly Madin criticised him as just a road engineer.
+
+Plans for roads were not accomplished anywhere else.
+The ringways plan in London was stopped as it would have destroyed much of the city.
+
+Their vision failed.
+The centre of a city is no place for the car.
+Le Corbusier had seen that the pedestrian, the inhabitant of the city needed to be protected from the car.
+He did not go far enough, grading was not far enough.
+The city is not the place for the car.
+
+In the 90s the planners realised this and Birmingham's town center was pedestrianised.
+Centenary square was finished in a sense with the addition of the Symphony Hall.
+Subways blocked the natural passage from the reinvigorated Brindley Place to the rest of the city.
+
+Installed a roof and changed the space from a civic to a commercial one,
+Stream of cheap tatty shops.
+
+Queensway lost favour.
+Took out the Bull Street Hump.
+The Masshouse Circus.
+Downgraded the Smallbrook Queensway.
 
 Destruction of what went before
 -------------------------------
@@ -52,15 +92,17 @@ Destruction of what went before
 
     <iframe src="//player.vimeo.com/video/7329952" width="500" height="375" frameborder="0"> </iframe>
 
+Divert - there is a deeper tragedy.
 The old library.
 Other buildings.
+Two wrongs don't make a right.
 
 Conclusion
 ----------
     We throw the out-of-date tool on the scrap-heap: the carbine, the culverin, the growler and the old locomotive. This action is a manifestation of health, of moral health, of morale also; it is not right that we should produce bad things because of a bad tool; nor is it right that we should waste our energy, our health and our courage because of a bad tool; it must be thrown away and replaced.
 -- Le Corbusier, Towards an Architecture, 1923
 
-The thing is a mess. 
+The thing is a mess. It has been abandoned.
 
 --------
 
