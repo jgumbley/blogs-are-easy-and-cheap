@@ -6,11 +6,15 @@
 {%- set sans_serif_font = "'New Rail Alphabet Off White', Helvetica, Arial, sans-serif" -%}
 {%- set code_font = "'Source Code Pro', monospace, serif" -%} 
 
-body { font-family: {{ serif_font }}; }
+body { font-family: {{ sans_serif_font }}; }
 
 header { text-align: center; }
-header h1 * { font-size: 1.6em; }
-header h2 { font-size: 1.4em; font-weight: normal; margin: 0; padding: 0; }
+header h1 * { font-size: 1.6em;
+              font-family: {{ serif_font }} ;
+ }
+header h2 { font-size: 1.4em; font-weight: normal; margin: 0; padding: 0;
+              font-family: {{ serif_font }} ;
+ }
 
 nav { font-size: 1.5em; }
 
@@ -128,8 +132,26 @@ header h2 { color: {{ theme_color_light }}; }
 
 a, a:visited { font-weight: bold; color: {{ theme_accent_color }}; text-decoration: none; }
 a:hover { font-weight: bold; color: {{ theme_accent_color }}; text-decoration: underline; }
-a.footnote-reference { vertical-align: super; }
-div.section h1 a { color: {{ text_color }}; text-decoration: none; }
+a.footnote-reference { vertical-align: super;
+                        font-family: {{ sans_font }};
+                        text-size: .1em;
+                        font-weight: normal;
+ }
+
+                        
+div.section h2 {       font-family: {{ serif_font }} ;  
+}
+
+div.section h1 a {      color: {{ text_color }}; 
+                        text-decoration: none;
+                        font-family: {{ serif_font }} ;
+ }
+
+div.section h1 {      color: {{ text_color }}; 
+                        text-decoration: none;
+                        font-family: {{ serif_font }} ;
+ }
+
 .docutils.literal { background-color: {{ box_color }}; border: 1px solid {{ background_color }}; border-radius: 8px; padding: 2px 4px; }
 
 blockquote { border-left: 10px solid {{ theme_accent_color }}; }
