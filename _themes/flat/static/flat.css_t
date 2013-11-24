@@ -2,10 +2,11 @@
 @import url(http://fonts.googleapis.com/css?family=Fauna+One:400,700,400italic,700italic);
 @import url(http://fonts.googleapis.com/css?family=Source+Code+Pro);
 
-{%- set sans_serif_font = "'Fauna One', Helvetica, Arial, sans-serif" -%}
+{%- set serif_font = "'Fauna One', Helvetica, Arial, serif" -%}
+{%- set sans_serif_font = "'New Rail Alphabet Off White', Helvetica, Arial, sans-serif" -%}
 {%- set code_font = "'Source Code Pro', monospace, serif" -%} 
 
-body { font-family: {{ sans_serif_font }}; }
+body { font-family: {{ serif_font }}; }
 
 header { text-align: center; }
 header h1 * { font-size: 1.6em; }
@@ -14,9 +15,13 @@ header h2 { font-size: 1.4em; font-weight: normal; margin: 0; padding: 0; }
 nav { font-size: 1.5em; }
 
 article p { line-height: 1.5; 
-            font-family: "New Rail Alphabet Off White", Helvetica, Arial, sans-serif;
+            font-family: {{ sans_serif_font }};
             text-align: justify;
 }
+
+p.caption { font-size:      .8em;
+            text-indent:    15px;
+ }
 
 .highlight { font-size: .8em; }
 
