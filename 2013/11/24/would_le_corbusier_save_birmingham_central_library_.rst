@@ -96,6 +96,17 @@ Destruction of what went before
 
     <iframe src="//player.vimeo.com/video/7329952" width="500" height="375" frameborder="0"> </iframe>
 
+Le Corbusier is saying that the work of an epoch has its own special character.
+Modernism, brutalism is the result of a specific time.
+Driven by the white heat of technology.
+Turning the back on the inequalities and squalor of the past.
+Expession of a time, a way of thinking that cannot be recovered.
+
+Le Corbusier says that Art is the application of knowledge to a conception.
+This conception is a product of its time.
+We cannot replay or recreate it.
+Once lost the essence of the conception is gone.
+
 Divert - there is a deeper tragedy.
 The old library.
 Other buildings.
