@@ -19,6 +19,10 @@ It was an industrial city with lots of poverty.
 The librarian shared the vision.
 Had a view into the future, understood computerisation, the wider remit of a library.
 
+.. figure:: nice-in-the-70s.jpg
+
+    The place looked quite upbeat and modern in the 70s.
+
 Le Corbusier was a architectural prophet. 
 Town planning was an emerging humanist art.
 The architect was to be the savior of the city.
