@@ -7,7 +7,11 @@ Would Le Corbusier save Birmingham Central Library?
 
 And then one would start a paragraph here I suppose.
 
-.. [#] This photo is taken from a series of Photos on Flickr which were taken of Birmingham City Centre in 1982: http://www.flickr.com/photos/dartsmaster/209004088/sizes/l/in/set-72157594227596604/
+
+
+References & Links
+------------------
+.. [#] This photo is taken from a series of Photos on Flickr which were taken of Birmingham City Centre in 1982: http://bit.ly/1iGDkxX
 
 .. author:: default
 .. categories:: none
