@@ -5,12 +5,16 @@ Would Le Corbusier save Birmingham Central Library?
 
     A clean, unmodified Central Library on a sunny day in 1982. [#]_.
 
-Birmingham Central Library was completed in 1974, the eastern bound of a much larger civic centre which has never been completed. Less than forty years later, in 2013, the building has been emptied of its precious horde of books and historical achives. The building now functions as nothing more than a massive decaying concrete roof over a tacky and windy downscale row of shops and cafes.  Despite the best efforts of English Heritage, the 20th Centry Society and a cadre of passionate objecters [#]_, the building is scheduled for demolition. 
+Birmingham Central Library was completed in 1974, at the eastern end of a much larger civic centre which has never been completed. Less than forty years later, in 2013, the building is empty of its precious horde of books and historical archives waiting to be pulled down. Now, the building functions as nothing more than a massive decaying roof over a tacky and windy row of downscale shops and cafes. Despite the best efforts of English Heritage, the 20th Centry Society and a cadre of passionate objecters [#]_, the building is scheduled for demolition. 
+
+There are a couple of things which are odd about this case. Firstly, a major public building intended to complete a much larger civic scheme is pulled down less than 40 years after it was built. What went wrong? Secondly the passions the building inspires. The way it looks is intruiging, a modernist ziggurat. It doesn't look like most other buildings. Secondly there are a group of passionate supporters wanting to keep it.
 
 A humanist, cubist, modernist building for the future.
 ------------------------------------------------------
      In the last fifty years steel and concrete have brought new conquests, which are the index of a greater capacity for construction, and of an architecture in which the old codes have been overturned.
 -- Le Corbusier, Towards an Architecture, 1923
+
+Four men were instrumental in the creation of the library, a visionary, a town planner an architect and a librarian.
 
 Architect John Madin had a vision for the future.
 The town was growing fast.
@@ -24,8 +28,11 @@ Had a view into the future, understood computerisation, the wider remit of a lib
     The place looked quite upbeat and modern in the 70s.
 
 Le Corbusier was a architectural prophet. 
-Town planning was an emerging humanist art.
+Inspired by time in monestaries and the Duomo.
+Hatred of the scattered and haphazard hometown.
+
 The architect was to be the savior of the city.
+Town planning was an emerging humanist art.
 
 The vision Le Corbusier foretold was domination of the automobile.
 Understood the fumes and filth of the things would suffocate the city.
