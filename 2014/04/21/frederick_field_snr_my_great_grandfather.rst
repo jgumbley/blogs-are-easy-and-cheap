@@ -1,7 +1,9 @@
 Frederick Field Snr, my Great-Grandfather
 =========================================
 
--budgy pic
+.. figure:: budgy.jpg
+
+    My grandad Fred liked Budgies
 
 Although my grandfather died in the 1990s, I remember him quite well from my experiences with him as a boy and the things that my Mother and Grandmother have told me about him since. He was a tall man, born in Smallheath in Birmingham to a working class family, married for love to a devoted wife, father of two elder girls and a son, a committed trade-union organiser at the Longbridge Motor Plant, a keen gardener in his spare time and the keeper of an aviary of budgerigars. His biggest vice from what I can tell was smoking which probably eventually contributed to his death. The elder members of my family who were close to him as adults recall him as a moral, thoughtful and dilligent man; to my mother he was a key inspiration to her career as a teacher in inner city Birmingham and after her retirement his memory a spur to her volentary work with vulnerable and disadvantaged people.
 
