@@ -54,7 +54,6 @@ Luckily the war was over by the end of the year, however Fred was retained in Ta
 
     Here he is. I think with his sister?
 
-After the war the military records reveal another 
 
 .. author:: default
 .. categories:: none
