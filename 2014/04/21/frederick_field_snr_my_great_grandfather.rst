@@ -24,7 +24,7 @@ Tracing this lineage back is somewhat tricky not least due to the very common na
 
 One impression I could draw from the censuses is that Birmingham had a class of metalworkers and gunmakers who lived in densely packed rented accommodation, that women, especially girls participated in the work, involvement in the trade was regularly passed from generation to generation, marriages were frequently to people who lived on the next street, and lots of children died before they reached school age. 
 
-Illustrating this, my Grandfather's Grandfather Thomas was born in 1861 and worked as a Nail Caster (these would be individually cast nails, before modern wire nails were developed). He lived on Vincent Street near Smallheath in 1891 with his wife in a back-to-back house and seems to have lost several young children between the 1881 and 1891 censuses. 
+Illustrating this, my Grandfather Fred's Grandfather (Thomas) was born in 1861 and worked as a Nail Caster (these would be individually cast nails, before modern wire nails were developed). He lived on Vincent Street near Smallheath in 1891 with his wife in a back-to-back house and seems to have lost several young children between the 1881 and 1891 censuses. 
 
 Similarly, Thomas Pennell, my Grandmother's Great Grandfather was born in 1831 and worked as a Gun Maker (which was a big industry in the city feeding the global empire of the time). He lived in the St George district in 1861 with his wife in a back-to-back house and seems to have lost several children between the 1851 and 1861 censuses. Both of these Thomases would have descendants whom continued to live their lives in the area around Smallheath.
 
@@ -36,16 +36,25 @@ He was born in 1891 to Thomas and Elisabeth Field. They were both in their 30s a
 
 In 1911, by the time Fred was 20 years old, his older sister Annie had died and he had three additional brothers and sisters, Leonard, Winnefred and Beatrice. The cast nail industry was by this time going into decline and Fred Snr's father, now 50 years of age still worked in that industry. His two elder brothers, Herbert and Leonard were metalworkers also and had moved out of the family home.
 
+The backdrop of this time was the rise of German industry as a competitor to that of Britain, the rise of Imperial Germany and the insane devastation of the First World War. One thing the British Empire did incredibly well was records and Fred's war records have been preserved (many were burned) and provide an incredible window into his life between 1918 and around 1930.
+
 .. figure:: rowton.png
 
     Fred was living here when he enlisted.
 
-The backdrop of this time was the rise of German industry as a competitor to that of Britain, the rise of Imperial Germany and the insane devastation of the First World War. One thing the British Empire did incredibly well was records and Fred's war records have been preserved (many were burned) and provide an incredible window into his life between 1916 and around 1930.
+Fred was conscripted in 1918, four years into the war. Many of the 'pals regiments' who marched off to volenteer in 1914 would have been dead by this stage so perhaps this shows some good sense. Fred lists his place of abode as the 'Rowton House' in Central Birmingham, a 6d per night hostelry for Navvies, Irish and "down and outs". He joins the Tank Corps Central Workshops and is listed as 5’2” tall (his son was 6'1") with a 'Girth when fully expanded' of 37". 
+
+.. figure:: tanks.png
+
+    This is a picture of the Central Workshops in 1917.
+
+Luckily the war was over by the end of the year, however Fred was retained in Tank Corps into 1919. Amazingly his courtship and marriage to his wife is documented through a leave request from January 1919 which is evidenced by a copy of his marriage certificate. The certificate shows his wedding to Lily Jones, my Great Grandmother, whom must have been pregnant at the wedding as Lillian Rosamund Field was born seven months later on 1 Jul 1919. Sadly their first child died after only one day in this world.
 
 .. figure:: fred-sr.png
 
     Here he is. I think with his sister?
 
+After the war the military records reveal another 
 
 .. author:: default
 .. categories:: none
