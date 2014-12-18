@@ -16,7 +16,7 @@ description = 'This is an awesome blog'
 author = 'Jim Gumbley'
 
 # Change this to your copyright string
-copyright = '2013, ' + author
+copyright = '2015, ' + author
 
 # Change this to your blog root URL (required for RSS feed)
 website = 'http://blog.jgumbley.com/'
