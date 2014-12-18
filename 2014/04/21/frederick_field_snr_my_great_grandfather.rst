@@ -14,6 +14,10 @@ In recent years I've been working near Smallheath, in Central Birmingham. Althou
 Time is a very strange thing. I was recently talking to my Grandmother who is almost 90 years old. She told me that as a child when she learnt about things that happened two hundred years ago it felt terribly far in the past. Now she says that sense of distance has been shattered as she herself has been alive for almost half of that period of time. 
 In terms of evolution both of the species and exchange of family traits 200 years is a heartbeat or a blink of the eye. However, in terms of the political and technological currents which still animate the world today, glimpses of the near past can seem to enrich and illuminate our understanding, or at least the subject gives this illusion to me.
 
+.. figure:: Birmingham_in_1886.jpg
+
+    Birmingham was undergoing somewhat of an industrial revolution at the time.
+
 Birmingham emerged as one of the first industrial centres, due to its proximity to raw materials smelted in the Black Country. When the technologies of the Industrial Revolution took hold its population exploded in a manner repeated since across the globe. Workers displaced by improved technology in the agarian economy of the countryside travelled to Birmingham and other industrial cities to find work, and in some cases to prevent starvation. 
 
 Enterprenuers, capitalists and landowners co-operated to harness the twin influxes of cheap labour and rapidly more complex and efficient technology by building workshops, canals, railways, factories, banks and intermingled amongst it all rows of cheap densely packed housing. Birmingham was known as the workshop of the world during this time and produced metal goods in quantities unseen before, which were exported by the merchant navy to a planet about to move from a dormant and agarian state to the technologically enlivened modern world.
