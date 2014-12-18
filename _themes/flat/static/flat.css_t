@@ -2,7 +2,7 @@
 @import url(http://fonts.googleapis.com/css?family=Fauna+One:400,700,400italic,700italic);
 @import url(http://fonts.googleapis.com/css?family=Source+Code+Pro);
 
-{%- set serif_font = "'Fauna One', Helvetica, Arial, serif" -%}
+{%- set serif_font = "'Anonymous Pro', Helvetica, Arial, serif" -%}
 {%- set sans_serif_font = "'New Rail Alphabet Off White', Helvetica, Arial, sans-serif" -%}
 {%- set code_font = "'Source Code Pro', monospace, serif" -%} 
 
