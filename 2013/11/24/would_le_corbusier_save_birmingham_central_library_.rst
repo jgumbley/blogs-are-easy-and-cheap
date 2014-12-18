@@ -14,7 +14,7 @@ Returning to Birmingham recently after several years awakened all of these quest
 A humanist, cubist, modernist building for the future.
 ------------------------------------------------------
      In the last fifty years steel and concrete have brought new conquests, which are the index of a greater capacity for construction, and of an architecture in which the old codes have been overturned.
--- Le Corbusier, Towards an Architecture, 1923
+        -- Le Corbusier, Towards an Architecture, 1923
 
 Four men were instrumental in the creation of the library, a visionary, a town planner an architect and a librarian.
 
@@ -44,7 +44,7 @@ The pedestrian segmented from the subterranean zone of cars, utilities, sewage p
 
 .. figure:: levels-of-library.jpg
 
-    The original plan echoed Le Corbusier's vision of a city raised above the ground, with a bus station planned in a subterranean zone alongside the current road tunnels. [#]_
+    The original plan echoed Le Corbusier's vision of a city raised above the ground, with a bus station planned in a subterranean zone alongside the current road tunnels.
 
 The champion of the simple and unadorned, ever mindful of mass, surface and restraining lines.
 Against a garden with waterfalls and stuff.
@@ -56,7 +56,7 @@ Against a garden with waterfalls and stuff.
 A fly in the ointment of the natural order of the city
 ------------------------------------------------------
     Without plan there can be neither grandeur of aim and expression, nor rhythm, nor mass, nor coherence. 
--- Le Corbusier, Towards an Architecture, 1923
+        -- Le Corbusier, Towards an Architecture, 1923
 
 .. figure:: civic-centre.jpg
 
@@ -99,7 +99,7 @@ Downgraded the Smallbrook Queensway.
 Destruction of what went before
 -------------------------------
     The “styles” are a lie. Style is a unity of principle animating all the work of an epoch, the result of a state of mind which has its own special character.
--- Le Corbusier, Towards an Architecture, 1923
+        -- Le Corbusier, Towards an Architecture, 1923
 
 .. raw:: html
 
@@ -124,7 +124,7 @@ Two wrongs don't make a right.
 Conclusion
 ----------
     We throw the out-of-date tool on the scrap-heap: the carbine, the culverin, the growler and the old locomotive. This action is a manifestation of health, of moral health, of morale also; it is not right that we should produce bad things because of a bad tool; nor is it right that we should waste our energy, our health and our courage because of a bad tool; it must be thrown away and replaced.
--- Le Corbusier, Towards an Architecture, 1923
+        -- Le Corbusier, Towards an Architecture, 1923
 
 The thing is a mess. It has been abandoned already. It blocks the natural flow of the city. It should be pulled down.
 
