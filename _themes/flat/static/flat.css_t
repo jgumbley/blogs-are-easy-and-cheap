@@ -1,9 +1,8 @@
 /* Typography */
-@import url(http://fonts.googleapis.com/css?family=Fauna+One:400,700,400italic,700italic);
 @import url(http://fonts.googleapis.com/css?family=Source+Code+Pro);
 
 {%- set serif_font = "'Anonymous Pro', Helvetica, Arial, serif" -%}
-{%- set sans_serif_font = "'New Rail Alphabet Off White', Helvetica, Arial, sans-serif" -%}
+{%- set sans_serif_font = "'Open Sans', Helvetica, Arial, sans-serif" -%}
 {%- set code_font = "'Source Code Pro', monospace, serif" -%} 
 
 body { font-family: {{ sans_serif_font }}; }
@@ -12,13 +11,16 @@ header { text-align: center; }
 header h1 * { font-size: 1.6em;
               font-family: {{ serif_font }} ;
  }
+h1 * { font-size: 1em;
+              font-family: {{ serif_font }} ;
+ }
 header h2 { font-size: 1.4em; font-weight: normal; margin: 0; padding: 0;
               font-family: {{ serif_font }} ;
  }
 
 nav { font-size: 1.5em; }
 
-article p { line-height: 1.5; 
+article p { line-height: 1.7; 
             font-family: {{ sans_serif_font }};
             text-align: justify;
 }
@@ -180,6 +182,9 @@ div.author {
                         font-family: {{ serif_font }} ;
 }
 
+div.timestamp { color: {{ text_color }}; font-size: 0.8em; font-weight: normal; margin-top: 0; 
+                        font-family: {{ serif_font }} ;
+}
 div.year div.timestamp { color: {{ text_color }}; font-size: 1.6em; font-weight: normal; margin-top: 0; 
                         font-family: {{ san_serif_font }} ;
 }
