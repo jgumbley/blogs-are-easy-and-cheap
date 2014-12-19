@@ -5,28 +5,31 @@ Fred Field, and Frederick Field Snr.
 
     My grandad Fred liked Budgies
 
-Although my grandfather died in the 1990s, I remember him quite well from my experiences with him as a boy and the things that my Mom and Gran have told me about him since. He was a tall man, born in Smallheath in Birmingham to a working class family, married to a devoted wife, father of two girls and a much younger son. He was a committed trade-union organiser at the Longbridge Motor Plant, a keen gardener in his spare time and the keeper of an aviary of budgerigars. 
+My grandfather died in the 90s. I remember him quite well, but mainly from my experiences with him as a boy and the things that my Mom and Gran have told me about him. He was a tall man, born in Birmingham to a working class family and married to a devoted wife. He was father to two girls and a much younger son.  
 
-His biggest vice from what I can tell was smoking which probably eventually contributed to his death. The elder members of my family who were close to him as adults recall him as a moral, thoughtful and dilligent man. To my mother he was a key inspiration to her career as a teacher in inner city Birmingham and after her retirement his memory a spur to her voluntary work with vulnerable people.
+Fred was a committed trade-union organiser at the Longbridge factory, a keen gardener and the keeper of an aviary of budgerigars. His biggest vice from what I can tell was smoking, which probably eventually contributed to his death. My family recall him as a moral, thoughtful and dilligent man.  To my mother he was a key inspiration to her career as a teacher of kids in inner city Birmingham.  After her retirement his memory was a spur to do voluntary work with vulnerable people.
 
-In recent years I've been working near Smallheath, in Central Birmingham. Although it is a place I've been familiar with since I was a child, after living in lots of other places its been interesting to see the place where my family originated. 
+Past year I've been working in central Birmingham. Although a familiar place, after living in lots of other places it's been interesting to see the place where my family originated. Time is a very strange thing. I was talking to my Gran who is almost 90 years old. She said as a child things that happened two hundred years ago felt extremely far in the past. Now she has has been alive for almost half that period of time.
 
-Time is a very strange thing. I was recently talking to my Grandmother who is almost 90 years old. She told me that as a child when she learnt about things that happened two hundred years ago it felt terribly far in the past. Now she says that sense of distance has been shattered as she herself has been alive for almost half of that period of time. 
-In terms of evolution both of the species and exchange of family traits 200 years is a heartbeat or a blink of the eye. However, in terms of the political and technological currents which still animate the world today, glimpses of the near past can seem to enrich and illuminate our understanding, or at least the subject gives this illusion to me.
+In terms of the evolution of the species or exchange of family traits, 200 years is a heartbeat or a blink of the eye. Either way- given the political and technological currents which animate the world, the near past can enrich and illuminate things.
 
-.. figure:: Birmingham_in_1886.jpg
+.. figure:: time.png
 
-    Birmingham was undergoing somewhat of an industrial revolution at the time.
+    Time is hard to fathom.
 
-Birmingham emerged as one of the first industrial centres, due to its proximity to raw materials smelted in the Black Country. When the technologies of the Industrial Revolution took hold its population exploded in a manner repeated since across the globe. Workers displaced by improved technology in the agarian economy of the countryside travelled to Birmingham and other industrial cities to find work, and in some cases to prevent starvation. 
+Birmingham was one of the very first global industrial centres. This was due to its proximity to raw materials and access to international markets through the Empire. When the Industrial Revolution took hold Birmingham's population exploded in a manner repeated many times since across the globe. 
 
-Enterprenuers, capitalists and landowners co-operated to harness the twin influxes of cheap labour and rapidly more complex and efficient technology by building workshops, canals, railways, factories, banks and intermingled amongst it all rows of cheap densely packed housing. Birmingham was known as the workshop of the world during this time and produced metal goods in quantities unseen before, which were exported by the merchant navy to a planet about to move from a dormant and agarian state to the technologically enlivened modern world.
+Unsurpisingly, young plebs from the countryside travelled to Birmingham and other industrial cities to find work, and to prevent starvation. Enterprenuers, capitalists and landowners were building workshops, canals, railways, factories, banks and rows of cheap densely packed housing. Birmingham was known as the workshop of the world during this time and produced metal goods in quantities unseen before.
 
 The censuses are extraordinarily detailed catalogues of the urban populace of this time. Kept at least in part as an inventory of the British Empire's potential might should she need to go to war, each man, woman and child is recorded along with their profession or trade, address, age and details as to any mental deficiency. 
 
 Tracing this lineage back is somewhat tricky not least due to the very common names which my ancesters had. For example my Great-Grandmother Lily Jones was one of eleven Lily Joneses in the city at the time and one of three who were born in the same year. However, by correlating details in the living memory such as addresses and the names of siblings it is possible to find my both my Great-Grandparents in the census of 1911. From there I've traced back to 1901, 1891, 1881 and occasionally, and with great care, to the censuses of the mid-nineteenth century when the Industrial Revolution in Birmingham was at its peak.
 
 One impression I could draw from the censuses is that Birmingham had a class of metalworkers and gunmakers who lived in densely packed rented accommodation, that women, especially girls participated in the work, involvement in the trade was regularly passed from generation to generation, marriages were frequently to people who lived on the next street, and lots of children died before they reached school age. 
+
+.. figure:: Birmingham_in_1886.jpg
+
+    Birmingham was undergoing somewhat of an industrial revolution at the time.
 
 Illustrating this, my Grandfather Fred's Grandfather (Thomas) was born in 1861 and worked as a Nail Caster (these would be individually cast nails, before modern wire nails were developed). He lived on Vincent Street near Smallheath in 1891 with his wife in a back-to-back house and seems to have lost several young children between the 1881 and 1891 censuses. 
 
