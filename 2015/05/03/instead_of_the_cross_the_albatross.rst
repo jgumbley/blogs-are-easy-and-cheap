@@ -25,7 +25,6 @@ In November 2002 a predator was launched from a former French Foreign Legion bas
 
 One US military base where predator drones are flown from is Creech Air Force base in Nevada. Although early drone pilots were drawn from F-15 pilots and other manned aircraft squadrons, the US Air Force increasingly turns to video games conferences and meetups to find new recruits. The predator is partly autonomous and therefore capable of operating on autopilot when moving from location to location. Manual control is relayed from computerised control panels in the United States via satalite links to drones over the Middle East, Asia and Africa.
 
-The rate of drone strikes 
 
 .. author:: default
 .. categories:: none
