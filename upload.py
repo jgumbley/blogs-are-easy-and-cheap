@@ -1,5 +1,9 @@
 #!/usr/bin/env python
 
+import ssl
+if hasattr(ssl, '_create_unverified_context'):
+    ssl._create_default_https_context = ssl._create_unverified_context
+
 import mimetypes, os
 from boto.s3.connection import S3Connection
 from boto.s3.key import Key
